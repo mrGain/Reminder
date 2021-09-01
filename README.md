@@ -68,7 +68,7 @@ nf.notify(
   
 ## Demo
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![](https://github.com/mrGain/Reminder/blob/main/images/screenshot/Screenshot-demo.png)
 
   
 ## Documentation

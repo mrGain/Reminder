@@ -9,7 +9,7 @@ A single code base will work on different operationg system like Linux & Windows
 
 ### Source code :
 
-Get the code here : [ https://github.com/mrGain/Reminder](https://github.com/mrGain/Reminder)
+Get the code here : [ https://github.com/mrGain/Reminder](https://github.com/mrGain/Reminder/main.py)
 
 
 
